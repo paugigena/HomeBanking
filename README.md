@@ -1,4 +1,4 @@
 # HomeBanking
 Segundo proyecto correspondiente a Desarrollo Web Full Stack, Acamica
-https://github.com/paugigena/HomeBanking.git
+https://paugigena.github.io/HomeBanking/
 CLAVE: 1234
